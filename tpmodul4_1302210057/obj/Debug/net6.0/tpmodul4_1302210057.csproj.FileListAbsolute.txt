@@ -1,0 +1,15 @@
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\tpmodul4_1302210057.csproj.AssemblyReference.cache
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\tpmodul4_1302210057.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\tpmodul4_1302210057.AssemblyInfoInputs.cache
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\tpmodul4_1302210057.AssemblyInfo.cs
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\tpmodul4_1302210057.csproj.CoreCompileInputs.cache
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\bin\Debug\net6.0\tpmodul4_1302210057.exe
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\bin\Debug\net6.0\tpmodul4_1302210057.deps.json
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\bin\Debug\net6.0\tpmodul4_1302210057.runtimeconfig.json
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\bin\Debug\net6.0\tpmodul4_1302210057.dll
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\bin\Debug\net6.0\tpmodul4_1302210057.pdb
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\tpmodul4_1302210057.dll
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\refint\tpmodul4_1302210057.dll
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\tpmodul4_1302210057.pdb
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\tpmodul4_1302210057.genruntimeconfig.cache
+F:\c#\belajar\tpmodul4_1302210057\tpmodul4_1302210057\obj\Debug\net6.0\ref\tpmodul4_1302210057.dll
