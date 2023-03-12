@@ -1,19 +1,38 @@
-﻿
-public class KodePos
+﻿public class Program
 {
-
-    public enum Kelurahan { Batununggal, Kujangsari, Mengger, Wates, Cijaura, Jatisari, Margasari, Sekejati, Kebonwaru, Maleer, Samoja }
-
-    public static int getKodePos(Kelurahan kelurahan)
+    enum State { Terkunci, Terbuka };
+    public static void Main()
     {
-        int[] kode_pos = { 40266, 40287, 40267, 40256, 40287, 40286, 40286, 40286, 40272, 40274, 40273 };
+        State state = State.Terkunci;
+        String[] output = { "Pintu terkunci", "Pintu tidak terkunci" };
+        while (true)
+        {
+            Console.WriteLine(output[(int)state]);
+            Console.Write("Enter Command : ");
 
-        return kode_pos[(int)kelurahan];
-    }
-    static void Main()
-    {
-        Kelurahan x = Kelurahan.Cijaura;
-        Console.WriteLine(getKodePos(x));
-    }
+            string command = Console.ReadLine();
+            switch (state)
+            {
+                case State.Terkunci:
+                    if (command == "KunciPintu")
+                        state = State.Terkunci;
+                        
+                    else if (command == "BukaPintu")
+                        state = State.Terbuka;
+                    else
+                        state = State.Terkunci;
+                    break;
+                case State.Terbuka:
+                    
+                     if (command == "BukaPintu")
+                        state = State.Terbuka;
+                    else if (command == "KunciPintu")
+                        state = State.Terkunci;
+                    else
+                        state = State.Terbuka;
+                    break;
 
+            }
+        }
+    }
 }
